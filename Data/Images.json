@@ -1,0 +1,63 @@
+[
+    {
+         "id"  :1,
+         "name": "AI Generated image",
+        "image": "https://backiee.com/static/wallpapers/1000x563/395750.jpg"
+    },
+   
+     {
+      "id" :2,
+      "name": "AI Generated cute",
+      "image":"https://backiee.com/static/wallpapers/1000x563/395752.jpg"
+     },
+     
+     {
+      "id" :3,
+      "name": "AI Generated girl",
+      "image":"https://backiee.com/static/wallpapers/1000x563/395608.jpg"
+     },
+
+     {
+      "id" :4,
+      "name": "AI Generated boy",
+       "image":"https://backiee.com/static/wallpapers/1000x563/375363.jpg" 
+     },
+
+     {
+      "id" :5,
+      "name": "AI Generated robot",
+        "image":"https://backiee.com/static/wallpapers/1000x563/395354.jpg"
+
+     },
+
+     {
+      "id" :6,
+      "name": "AI Generated cat",
+       "image":"https://backiee.com/static/wallpapers/1000x563/198927.jpg"
+
+     },
+
+     {
+      "id" :7,
+      "name": "AI Generated building",
+       "image":"https://backiee.com/static/wallpapers/1000x563/395352.jpg"
+     },
+
+     { 
+      "id" :8,
+      "name": "AI Generated mechine",
+        "image":"https://backiee.com/static/wallpapers/560x315/376511.jpg"
+     },
+
+     {
+      "id" :9,
+      "name": "AI Generated umex",
+        "image":"https://backiee.com/static/wallpapers/1000x563/395611.jpg"
+     },
+
+     {
+      "id" :10,
+      "name": "AI Generated Walls",
+        "image":"https://backiee.com/static/wallpapers/1000x563/395354.jpg"
+     }
+]
